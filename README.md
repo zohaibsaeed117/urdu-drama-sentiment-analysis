@@ -131,7 +131,3 @@ LinkedIn: [Zohaib Saeed](https://linkedin.com/in/zohaibsaeed117)
 * Instructor: **Maam Qurat-ul-Ain** (NLP Course - UET)
 * Hugging Face 🤗 for amazing models
 * YouTube channels providing rich Urdu drama content
-
-```
-
----
